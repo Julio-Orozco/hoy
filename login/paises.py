@@ -1,0 +1,1 @@
+lista = ["CR", "peru", "EEUU", "panama"]
