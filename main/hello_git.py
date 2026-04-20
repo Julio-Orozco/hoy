@@ -4,3 +4,5 @@ print("nueva fila")
 
 # lista de paises
 paises = ["CP", "USA", "canada"]
+
+# La progra es una mierda
